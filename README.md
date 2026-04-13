@@ -1,5 +1,7 @@
 # wx_app_config_tutorial
 
+![Tutorial Preview](tutorial-preview.gif)
+
 Persistent App Settings in wxWidgets — saving preferences, recent files, and first-run detection using `wxFileConfig`.
 
 This is the companion code for the tutorial video.
