@@ -4,7 +4,7 @@
 
 Persistent App Settings in wxWidgets — saving preferences, recent files, and first-run detection using `wxFileConfig`.
 
-This is the companion code for the tutorial video.
+This is the companion code for the [tutorial video](https://www.youtube.com/watch?v=rhm-XJCMsXo).
 
 ## Requirements
 
